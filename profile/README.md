@@ -11,5 +11,6 @@ Desenvolvemos soluções sob medida para empresas que precisam de tecnologia ali
 
 ## Contato
 
-📧 [contato.kwayti@gmail.com](mailto:contato.kwayti@gmail.com)
+📧 [contato@kwayti.digital](mailto:contato@kwayti.digital)<br>
+🌐 [kwayti.digital](https://kwayti.digital)<br>
 📍 Brasil
